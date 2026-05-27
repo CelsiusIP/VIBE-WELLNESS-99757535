@@ -9,7 +9,7 @@ import requests
 
 # -------- CONFIG --------
 SERIAL_NUMBER = "99757535"
-MATTER_REFERENCE_NUMBER = ""
+MATTER_REFERENCE_NUMBER = "CF-0002252-US"
 STATUS_FILE = Path("status.json")
 
 USPTO_API_KEY = os.getenv("USPTO_API_KEY")
